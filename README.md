@@ -3,7 +3,15 @@ Takes an unprocessed GWAS sumstat file, performs QC and changes it to a standard
 
 Location: https://github.com/ymer/ldsc  
 
-Details at: ?  
+Description at: ?  
 
-Contact: Jonatan  
+Contact: Jonatan (jonatan.smp@gmail.com)  
+
+
+#GATK
+Pipeline that runs GATK variant calling
+
+Location: NA
+
+Contact: Jinjie (jjduan@biomed.au.dk)
 
