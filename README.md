@@ -42,3 +42,12 @@ Filters out any number of individuals, and any number of SNPs from multi-wave ri
 
 Contact: Jonatan (jonatan.smp@gmail.com) 
 <br><br>
+
+### Scripts for running a ricopili association analysis on iPsych data
+Including:
+find_outliers.py - Based on PCA, identify individuals outside an ellipsoid centered on ethnic Danes
+msl_merge.sh - Creates the folder structure and files needed to run an association using merged waves
+msl_meta.sh - Creates the folder structure and files needed to run an association using a meta analysis of waves
+
+Link: jail - IGdata/faststorage/userdata/ijpal/rico
+<br><br>
