@@ -1,3 +1,8 @@
+## collection of scripts
+
+Finished, half-finished or in production. Provide as much detail as possible, including links to the scripts. If these are not currently sharable, just a description of them and contact info is good.
+<br><br>
+
 ### Munge sumstats
 Takes an unprocessed GWAS sumstat file, performs QC and changes it to a standard format.
 
