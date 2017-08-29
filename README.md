@@ -3,6 +3,21 @@
 Finished, half-finished or in production. Provide as much detail as possible, including links to the scripts. If these are not currently sharable, just include a short description and provide contact information.
 <br><br>
 
+### Genie
+
+A wrapper for a large number of functionalities, mostly for running on summary stat files.
+Currently including:
+- GCTA
+- MAGMA
+- PRS
+- Runs of homozygosity
+
+Location: github.com/drveera/genie
+
+Contact: Veera (veera@biomed.au.dk) or Jonatan (jonatan.smp@gmail.com)
+
+<br><br>
+
 ### Munge sumstats
 Takes an unprocessed GWAS sumstat file, performs QC and changes it to a standard format.
 
