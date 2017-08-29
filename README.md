@@ -1,6 +1,6 @@
 ## Collection of scripts
-
-Finished, half-finished or in production. Provide as much detail as possible, including links to the scripts if possible. If these are not currently sharable, just include a short description and provide contact information.
+List of scripts created in our group, so that it's possible to see if someone has already made the code you need.  
+The scripts can be finished, half-finished or in production. Provide as much detail as possible, including links to the scripts if possible. If these are not currently sharable, just include a short description and provide contact information.
 <br><br>
 
 ### Genie
