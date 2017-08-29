@@ -1,6 +1,6 @@
-## collection of scripts
+## Collection of scripts
 
-Finished, half-finished or in production. Provide as much detail as possible, including links to the scripts. If these are not currently sharable, just a description of them and contact info is good.
+Finished, half-finished or in production. Provide as much detail as possible, including links to the scripts. If these are not currently sharable, just include a short description and provide contact information.
 <br><br>
 
 ### Munge sumstats
