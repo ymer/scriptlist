@@ -12,9 +12,9 @@ Currently including:
 - MAGMA gene set analysis
 - Polygenic risk score calculation using PRSice software
 - Association analysis with precomputed PRS scores.
-- annotate variants in summary file to dbsnp ids 
-- predixcan analysis 
-- metaxcan analysis
+- Annotate variants in summary file to dbsnp ids 
+- Predixcan analysis 
+- Metaxcan analysis
 - FUSION transcriptome wide association analysis
 - LDscore calculcation, partition heritability, cell type specific analysis, partition continuous annotation
 - Runs of homozygosity
