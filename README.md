@@ -12,7 +12,7 @@ Currently including:
 - PRS
 - Runs of homozygosity
 
-Location: github.com/drveera/genie
+Location: https://github.com/drveera/genie
 
 Contact: Veera (veera@biomed.au.dk) or Jonatan (jonatan.smp@gmail.com)
 <br><br>
