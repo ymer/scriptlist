@@ -18,6 +18,24 @@ Location: https://github.com/drveera/genie
 Contact: Veera (veera@biomed.au.dk) or Jonatan (jonatan.smp@gmail.com)
 <br><br>
 
+### GCTA - bivar-REML
+Split cases and controls to perform bivariate GCTA
+
+Contact: Thomas Als tda@biomed.au.dk 
+<br><br>
+
+### PCA - EIGENsoft Rij projection
+Calculate PCA, including precise calculations of related individuals. (This is not the case in the standard Ricopili pipeline.)
+
+Contact: Thomas Als tda@biomed.au.dk 
+<br><br>
+
+### OR_snp permutation
+Calculate a distribution of ORs when removing subsets of individuals of a specific size.
+
+Contact: Thomas Als tda@biomed.au.dk 
+<br><br>
+
 ### Munge sumstats
 Takes an unprocessed GWAS sumstat file, performs QC and changes it to a standard format.
 
