@@ -4,7 +4,7 @@ Takes an unprocessed GWAS sumstat file, performs QC and changes it to a standard
 Location: https://github.com/ymer/ldsc   
 
 Contact: Jonatan (jonatan.smp@gmail.com)  
-<br>
+<br><br>
 
 ### GATK
 Pipeline that runs GATK variant calling
@@ -12,16 +12,16 @@ Pipeline that runs GATK variant calling
 Location: NA
 
 Contact: Jinjie (jjduan@biomed.au.dk)
-<br>
+<br><br>
 
 ### Merge waves
 Merges waves of multi-wave ricopili data, keeping the structure.
 
 Contact: Jonatan (jonatan.smp@gmail.com) 
-<br>
+<br><br>
 
 ### Filter waves
 Filters out any number of individuals, and any number of SNPs from multi-wave ricopili data, keeping the structure.
 
 Contact: Jonatan (jonatan.smp@gmail.com) 
-<br>
+<br><br>
