@@ -6,14 +6,14 @@ Location: https://github.com/ymer/ldsc
 Contact: Jonatan (jonatan.smp@gmail.com)  
 
 
-# GATK
+### GATK
 Pipeline that runs GATK variant calling
 
 Location: NA
 
 Contact: Jinjie (jjduan@biomed.au.dk)
 
-# Merge waves
+### Merge waves
 Merges waves of multi-wave ricopili data, keeping the structure.
 
 Contact: Jonatan (jonatan.smp@gmail.com) 
