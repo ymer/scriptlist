@@ -8,9 +8,14 @@ The scripts can be finished, half-finished or in production. Provide as much det
 
 A wrapper for a large number of functionalities, mostly for running on summary stat files.
 Currently including:
-- GCTA
-- MAGMA
-- PRS
+- GWAS analysis using plink (can use both dosage and binary plink files)
+- MAGMA gene set analysis
+- Polygenic risk score calculation using PRSice software
+- Association analysis with precomputed PRS scores.
+- annotate variants in summary file to dbsnp ids 
+- predixcan analysis 
+- FUSION transcriptome wide association analysis
+- LDscore calculcation, partition heritability, cell type specific analysis, partition continuous annotation
 - Runs of homozygosity
 
 Location: https://github.com/drveera/genie
