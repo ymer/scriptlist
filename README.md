@@ -18,7 +18,7 @@ Merges waves of multi-wave ricopili data, keeping the structure.
 
 Contact: Jonatan (jonatan.smp@gmail.com) 
 
-# Filter waves
+### Filter waves
 Filters out any number of individuals, and any number of SNPs from multi-wave ricopili data, keeping the structure.
 
 Contact: Jonatan (jonatan.smp@gmail.com) 
