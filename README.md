@@ -24,7 +24,7 @@ Split cases and controls to perform bivariate GCTA
 Contact: Thomas Als tda@biomed.au.dk 
 <br><br>
 
-### PCA - EIGENsoft Rij projection
+### PCA - Eigensoft Rij projection
 Calculate PCA, including precise calculations of related individuals. (This is not the case in the standard Ricopili pipeline.)
 
 Contact: Thomas Als tda@biomed.au.dk 
