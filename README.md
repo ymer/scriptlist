@@ -1,6 +1,6 @@
 ## Collection of scripts
 
-Finished, half-finished or in production. Provide as much detail as possible, including links to the scripts. If these are not currently sharable, just include a short description and provide contact information.
+Finished, half-finished or in production. Provide as much detail as possible, including links to the scripts if possible. If these are not currently sharable, just include a short description and provide contact information.
 <br><br>
 
 ### Genie
