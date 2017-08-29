@@ -50,4 +50,6 @@ msl_merge.sh - Creates the folder structure and files needed to run an associati
 msl_meta.sh - Creates the folder structure and files needed to run an association using a meta analysis of waves
 
 Link: jail - IGdata/faststorage/userdata/ijpal/rico
+
+Contact: Jonatan (jonatan.smp@gmail.com) 
 <br><br>
