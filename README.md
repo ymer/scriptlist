@@ -8,7 +8,7 @@ Description at: ?
 Contact: Jonatan (jonatan.smp@gmail.com)  
 
 
-#GATK
+# GATK
 Pipeline that runs GATK variant calling
 
 Location: NA
