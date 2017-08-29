@@ -9,8 +9,6 @@ Contact: Jonatan (jonatan.smp@gmail.com)
 ### GATK
 Pipeline that runs GATK variant calling
 
-Location: NA
-
 Contact: Jinjie (jjduan@biomed.au.dk)
 <br><br>
 
