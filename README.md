@@ -1,9 +1,7 @@
 # Munge sumstats
 Takes an unprocessed GWAS sumstat file, performs QC and changes it to a standard format.
 
-Location: https://github.com/ymer/ldsc  
-
-Description at: ?  
+Location: https://github.com/ymer/ldsc   
 
 Contact: Jonatan (jonatan.smp@gmail.com)  
 
