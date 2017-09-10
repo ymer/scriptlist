@@ -94,6 +94,7 @@ This is a plug and play solution with:
 In alternative set-up I've prepared ~23 mostly neuropsychiatric traits that can be assayed for a gene set of interest. This is done off-site, so just ask me to do so.
 
 Link: /faststorage/jail/project/DBS1to10/Wave1-10_2015_03/userdata/haub/scripts
+
 Contact: Mads Engel Hauberg - mads{d0t}hauberg{åt}gmail{d0t}com
 <br><br>
 
@@ -106,6 +107,7 @@ This is a plug-and-play solution with:
 In alternative set-up we have various not yet publicly available epigenomic annotations and the ability to run additional genomic annotation of interest in ~23 mostly neuropsychiatric traits. This is done off-site, so just ask me to do so.
 
 Link: /faststorage/jail/project/DBS1to10/Wave1-10_2015_03/userdata/haub/scripts
+
 Contact: Mads Engel Hauberg - mads{d0t}hauberg{åt}gmail{d0t}com
 <br><br>
 
@@ -113,6 +115,7 @@ Contact: Mads Engel Hauberg - mads{d0t}hauberg{åt}gmail{d0t}com
 Annotates the daner regions with a broad range of genetic information.
 
 Link: /faststorage/jail/project/DBS1to10/Wave1-10_2015_03/userdata/haub/scripts
+
 Contact: Mads Engel Hauberg - mads{d0t}hauberg{åt}gmail{d0t}com
 <br><br>
 
